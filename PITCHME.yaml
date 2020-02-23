@@ -1,10 +1,9 @@
-code-line-numbers : true
 eager-loading : true
 transition: fade
-title: "Common Accessibility Pitfalls: Climbing out, when you fall in."
+title: "Run to the light Carol Anne: Auditing with Lighthouse"
 remote-control: true
-theme-override : styles/styles.css
+theme-override : assets/css/styles.css
 published: true
-highlight : atom-one-dark
+highlight : agate
 published: true
 footnote : "https://gitpitch.com/chrisdemars/lighthouse-carol-anne#/"
