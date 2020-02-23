@@ -3,9 +3,10 @@ body {
 }
 
 .reveal {
-  .slide-background-content {
-    background-color: black;
-  }
+  // .slide-background-content {
+  //   background-color: black;
+  // }
+
   .slides {
     width: 1040px !important;
   }
@@ -36,7 +37,7 @@ body {
   li,
   .title,
   .quote-text {
-    color: #acccf3;
+    color: #acccf3 !important;
     font-family: Helvetica, sans-serif !important;
   }
 

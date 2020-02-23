@@ -72,15 +72,105 @@ Keywords, Structure, Description, Google Analytics, etc.
 
 ---
 
-HTTPS, Proper doctype, no console errors, etc.
+## Best Practices
 
-@snap[south-middle fragment]
-@[2, zoom-25]
+#### Proper doctype, no console errors, etc.
+
+---
+
+## @css[title](Security & HTTPS)
+
+@snap[south-middle span-100 fragment]
+@[2, zoom-18]
 
 ```html
 <div class="...">
   <a href="..." rel="noopener"></a>
 </div>
+```
+
+@snapend
+
+---
+
+## Progressive Web Apps
+
+---
+
+@snap[north-east span-100 text-06]
+Sample sw.js file
+@snapend
+@snap[span-100]
+
+```javascript
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('/sw.js').then(
+      function(registration) {
+        // Registration was successful
+        console.log(
+          'ServiceWorker registration successful with scope: ',
+          registration.scope
+        );
+      },
+      function(err) {
+        // registration failed :(
+        console.log('ServiceWorker registration failed: ', err);
+      }
+    );
+  });
+}
+```
+
+@snapend
+
+---
+
+@snap[north-east span-100 text-06]
+Sample manifest.json file
+@snapend
+@snap[span-100]
+
+```javascript zoom-06
+{
+  "short_name": "Maps",
+  "name": "Google Maps",
+  "icons": [
+    {
+      "src": "/images/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/maps/?source=pwa",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/maps/",
+  "theme_color": "#3367D6"
+}
+```
+
+@[2-4, zoom-21]
+@[6-8, zoom-21]
+@[11-13, zoom-21]
+@[16-20, zoom-21]
+
+@snapend
+
+---
+
+@snap[north-east span-100 text-06]
+Tell the browser about your manifest.json file
+@snapend
+@snap[span-100]
+
+```html midpoint zoom-15
+<link rel="manifest" href="/manifest.json" />
 ```
 
 @snapend
