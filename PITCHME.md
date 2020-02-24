@@ -174,3 +174,37 @@ Tell the browser about your manifest.json file
 ```
 
 @snapend
+
+---
+
+## @css[title](Accessibility)
+
+---
+
+@snap[north-east span-100 text-06]
+Semantic markup and ARIA
+@snapend[west]
+
+```html zoom-10
+<header>
+  <!--- Some code goes here --->
+</header>
+<section>
+  <!--- Some code goes here --->
+</section>
+<div class="...">
+  <ul>
+    <li aria-label="some label"></li>
+    <li aria-label="some label"></li>
+    <li aria-label="some label"></li>
+  </ul>
+</div>
+<footer>
+  <!--- Some code goes here --->
+</footer>
+```
+
+@[1-3, zoom-15]
+@[4-6, zoom-15]
+@[7-13, zoom-15]
+@[14-16, zoom-15]
