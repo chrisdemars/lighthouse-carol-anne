@@ -16,9 +16,6 @@ Conf thanks
 <img src="assets/img/mvp.png" />
 @snapend
 
-@snap[south-east]docs.microsoft.com @color[#008AD7](@fab[microsoft])](https://docs.microsoft.com/azure)
-@snapend
-
 @snap[south-east fit]
 <img src="assets/img/gde.png" />
 @snapend
@@ -57,7 +54,7 @@ Conf thanks
 ---
 
 @snap[west](Embed Video)
-![Gatsby Load](assets/gatsby-load.mp4)
+![Gatsby Load](./assets/gatsby-load.mp4)
 @snapend
 
 @snap[east perf-ss]
