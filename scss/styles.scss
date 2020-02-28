@@ -41,10 +41,11 @@ body {
     font-family: Helvetica, sans-serif !important;
   }
 
-  .perf-ss {
-    width: 600px;
-    height: auto;
-    margin-left: 200px;
+  .lighthouse {
+    img {
+      width: 600px;
+      height: auto;
+    }
   }
 
   .south-middle {
@@ -57,5 +58,18 @@ body {
 
   .line {
     width: 1040px !important;
+  }
+
+  .slide-background {
+    .custom {
+      position: absolute;
+      width: 30% !important;
+      height: unset !important;
+      max-width: none !important;
+      max-height: none !important;
+      top: 300px !important;
+      left: 200px !important;
+      object-fit: cover;
+    }
   }
 }

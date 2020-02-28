@@ -53,13 +53,13 @@ Conf thanks
 
 ---
 
-@snap[west](Embed Video)
-![Gatsby Load](./assets/gatsby-load.mp4)
-@snapend
-
-@snap[east perf-ss]
+@snap[midpoint]
 <img src="assets/img/perf-ss.png" />
 @snapend
+
+---
+
+[Webpage Test](https://www.webpagetest.org/)
 
 ---
 
@@ -205,3 +205,15 @@ Semantic markup and ARIA
 @[4-6, zoom-15]
 @[7-13, zoom-15]
 @[14-16, zoom-15]
+
+---
+
+## How do we audit?
+
+---
+
+@snap[midpoint lighthouse]
+<img src="assets/img/lighthouse.svg" />
+@snapend
+
+---

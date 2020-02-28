@@ -2,10 +2,6 @@ body {
   background-color: #000;
 }
 
-.reveal .slide-background-content {
-  background-color: black;
-}
-
 .reveal .slides {
   width: 1040px !important;
 }
@@ -37,14 +33,13 @@ body {
 .reveal li,
 .reveal .title,
 .reveal .quote-text {
-  color: #acccf3;
+  color: #acccf3 !important;
   font-family: Helvetica, sans-serif !important;
 }
 
-.reveal .perf-ss {
+.reveal .lighthouse img {
   width: 600px;
   height: auto;
-  margin-left: 200px;
 }
 
 .reveal .south-middle {
@@ -54,5 +49,21 @@ body {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   text-align: center;
+}
+
+.reveal .line {
+  width: 1040px !important;
+}
+
+.reveal .slide-background .custom {
+  position: absolute;
+  width: 30% !important;
+  height: unset !important;
+  max-width: none !important;
+  max-height: none !important;
+  top: 300px !important;
+  left: 200px !important;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 /*# sourceMappingURL=styles.css.map */
