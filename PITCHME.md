@@ -217,3 +217,7 @@ Semantic markup and ARIA
 @snapend
 
 ---
+
+## OFF WE GO TO CHROME!
+
+<img src="https://media.giphy.com/media/GlO8owuLggHhm/giphy.gif" width="480" height="208"/>
