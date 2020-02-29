@@ -1,8 +1,24 @@
-## Sponsors
+## Thanks to GDG Fremont!
 
 ---
 
-Conf thanks
+@snap[north]
+
+## Sponsors
+
+@snapend
+
+@snap[midpoint]
+<img src="assets/img/sponsors.png" />
+@snapend
+
+---
+
+### #GDGFremontDevFest2020
+
+---
+
+### I ❤️ the #DeveloperCommunity
 
 ---
 
@@ -26,7 +42,28 @@ Conf thanks
 
 ---
 
-### @css[title glow](Run to the Light Carol Anne)
+### @css[emoji](😢)
+
+---
+
+### More about me!
+
+@ul
+
+- International Speaker
+- From Detroit but currently live in Denver
+- Host of Tales From the Script (@TalesFTScript)
+- Love tattoos and horror
+
+  @ulend
+
+---
+
+[Tales From the Script](https://open.spotify.com/show/6CMLm47Kj0VyeM6lnaSmnw?si=fS6s9ra1TMmREKJ7RyhGpQ)
+
+---
+
+### @css[title](Run to the Light Carol Anne)
 
 #### @css[title](Auditing with Lighthouse)
 
@@ -221,3 +258,21 @@ Semantic markup and ARIA
 ## OFF WE GO TO CHROME!
 
 <img src="https://media.giphy.com/media/GlO8owuLggHhm/giphy.gif" width="480" height="208"/>
+
+---
+
+# Problems
+
+---
+
+# Solutions
+
+---
+
+# Resources
+
+[Get them here!](https://gist.github.com/chrisdemars/34305835a172f4e5aac3ed35b6b908af)
+
+---
+
+# Thanks

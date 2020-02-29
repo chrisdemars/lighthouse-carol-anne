@@ -10,11 +10,20 @@ body {
   background-color: black;
 }
 
+.reveal .emoji {
+  font-size: 5em;
+  line-height: 1em;
+}
+
 .reveal .rounded {
   border: 5px solid #acccf3;
   border-radius: 50% !important;
 }
 
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
 .reveal .glow {
   -webkit-filter: drop-shadow(0px 0px 5px white);
           filter: drop-shadow(0px 0px 5px white);
