@@ -76,7 +76,9 @@ body {
      object-fit: cover;
 }
 
-.reveal #title-footer p .footer-fade {
-  color: pink !important;
+.reveal .perf-ss img {
+  width: 800px !important;
+  max-width: 160% !important;
+  height: auto;
 }
 /*# sourceMappingURL=styles.css.map */

@@ -78,11 +78,11 @@ body {
     }
   }
 
-  #title-footer {
-    p {
-      .footer-fade {
-        color: pink !important;
-      }
+  .perf-ss {
+    img {
+      width: 800px !important;
+      max-width: 160% !important;
+      height: auto;
     }
   }
 }

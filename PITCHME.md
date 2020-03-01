@@ -156,8 +156,8 @@ Chris DeMars @saltnburnem
 
 ---
 
-@snap[midpoint]
-<img src="assets/img/perf-ss.png" alt="Screenshot from web page test" class="perf-ss"/>
+@snap[perf-ss]
+<img src="assets/img/perf-ss.png" alt="Screenshot from web page test"/>
 @snapend
 
 @snap[south-east span-100 text-03]
