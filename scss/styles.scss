@@ -3,10 +3,6 @@ body {
 }
 
 .reveal {
-  // .slide-background-content {
-  //   background-color: black;
-  // }
-
   .slides {
     width: 1040px !important;
   }
@@ -79,6 +75,14 @@ body {
       top: 300px !important;
       left: 200px !important;
       object-fit: cover;
+    }
+  }
+
+  #title-footer {
+    p {
+      .footer-fade {
+        color: pink !important;
+      }
     }
   }
 }

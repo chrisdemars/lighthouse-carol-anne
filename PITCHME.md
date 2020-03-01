@@ -1,5 +1,11 @@
 ## Thanks to GDG Fremont!
 
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 @snap[north]
@@ -12,13 +18,31 @@
 <img src="assets/img/sponsors.png" />
 @snapend
 
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 ### #GDGFremontDevFest2020
 
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 ### I ❤️ the #DeveloperCommunity
+
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
 
 ---
 
@@ -44,6 +68,12 @@
 
 ### @css[emoji](😢)
 
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 ### More about me!
@@ -57,9 +87,21 @@
 
   @ulend
 
+  @snap[south-east span-100 text-03]
+  #GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 [Tales From the Script](https://open.spotify.com/show/6CMLm47Kj0VyeM6lnaSmnw?si=fS6s9ra1TMmREKJ7RyhGpQ)
+
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
 
 ---
 
@@ -69,13 +111,31 @@
 
 ![Logo](assets/img/poltergeist.jpg)
 
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 ## What is an audit?
 
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 @quote[Analysis of how your experience is doing.]
+
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
 
 ---
 
@@ -88,15 +148,33 @@
 - Accessibility
   @ulend
 
+  @snap[south-east span-100 text-03]
+  #GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 @snap[midpoint]
-<img src="assets/img/perf-ss.png" />
+<img src="assets/img/perf-ss.png" alt="Screenshot from web page test" class="perf-ss"/>
 @snapend
+
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
 
 ---
 
 [Webpage Test](https://www.webpagetest.org/)
+
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
 
 ---
 
@@ -104,11 +182,23 @@ Keywords, Structure, Description, Google Analytics, etc.
 
 [A Simple (But Effective) 31-Point SEO Checklist](https://ahrefs.com/blog/seo-checklist/)
 
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 ## Best Practices
 
 #### Proper doctype, no console errors, etc.
+
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
 
 ---
 
@@ -125,9 +215,21 @@ Keywords, Structure, Description, Google Analytics, etc.
 
 @snapend
 
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 ## Progressive Web Apps
+
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
 
 ---
 
@@ -157,6 +259,12 @@ if ('serviceWorker' in navigator) {
 ```
 
 @snapend
+
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
 
 ---
 
@@ -196,6 +304,12 @@ Sample manifest.json file
 
 @snapend
 
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 @snap[north-east span-100 text-06]
@@ -209,9 +323,21 @@ Tell the browser about your manifest.json file
 
 @snapend
 
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 ## @css[title](Accessibility)
+
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
 
 ---
 
@@ -243,9 +369,21 @@ Semantic markup and ARIA
 @[7-13, zoom-15]
 @[14-16, zoom-15]
 
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 ## How do we audit?
+
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
 
 ---
 
@@ -253,19 +391,43 @@ Semantic markup and ARIA
 <img src="assets/img/lighthouse.svg" />
 @snapend
 
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 ## OFF WE GO TO CHROME!
 
 <img src="https://media.giphy.com/media/GlO8owuLggHhm/giphy.gif" width="480" height="208"/>
 
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 # Problems
 
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
 # Solutions
+
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
 
 ---
 
@@ -273,6 +435,20 @@ Semantic markup and ARIA
 
 [Get them here!](https://gist.github.com/chrisdemars/34305835a172f4e5aac3ed35b6b908af)
 
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem
+
 ---
 
-# Thanks
+# Thanks!
+
+@saltnburnem | http://bit.ly/lighthouse-carol-anne
+
+@snap[south-east span-100 text-03]
+#GDGFremontDevFest2020 #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars @saltnburnem

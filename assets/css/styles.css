@@ -75,4 +75,8 @@ body {
   -o-object-fit: cover;
      object-fit: cover;
 }
+
+.reveal #title-footer p .footer-fade {
+  color: pink !important;
+}
 /*# sourceMappingURL=styles.css.map */
