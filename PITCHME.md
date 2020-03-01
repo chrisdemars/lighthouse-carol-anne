@@ -345,7 +345,7 @@ Chris DeMars @saltnburnem
 Semantic markup and ARIA
 @snapend[west]
 
-```html zoom-10
+```html zoom-06
 <header>
   <!--- Some code goes here --->
 </header>
@@ -354,9 +354,21 @@ Semantic markup and ARIA
 </section>
 <div class="...">
   <ul>
-    <li aria-label="some label"></li>
-    <li aria-label="some label"></li>
-    <li aria-label="some label"></li>
+    <li aria-label="some label">
+      <a href="#" aria-label="Facebook"
+        ><i class="fab fa-3x fa-facebook-f"></i
+      ></a>
+    </li>
+    <li aria-label="some label">
+      <a href="#" aria-label="Instagram"
+        ><i class="fab fa-3x fa-instagram-f"></i
+      ></a>
+    </li>
+    <li aria-label="some label">
+      <a href="#" aria-label="Twitter"
+        ><i class="fab fa-3x fa-twitter-f"></i
+      ></a>
+    </li>
   </ul>
 </div>
 <footer>
@@ -366,8 +378,10 @@ Semantic markup and ARIA
 
 @[1-3, zoom-15]
 @[4-6, zoom-15]
-@[7-13, zoom-15]
-@[14-16, zoom-15]
+@[9-13, zoom-15]
+@[14-18, zoom-15]
+@[19-23, zoom-15]
+@[26-28, zoom-15]
 
 @snap[south-east span-100 text-03]
 #GDGFremontDevFest2020 #DeveloperCommunity
