@@ -368,9 +368,9 @@ Chris DeMars ◆ @saltnburnem
 
 ---
 
-@snap[midpoint lighthouse]
+<!-- @snap[midpoint lighthouse] -->
 <img src="assets/img/lighthouse-logo.svg" />
-@snapend
+<!-- @snapend -->
 
 @snap[south-east span-100 text-03]
 #DeveloperCommunity
