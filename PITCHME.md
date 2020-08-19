@@ -369,7 +369,9 @@ Chris DeMars ◆ @saltnburnem
 ---
 
 @snap[midpoint lighthouse]
-<img src="assets/img/lighthouse.svg" />
+
+<!-- <img src="assets/img/lighthouse.svg" /> -->
+
 @snapend
 
 @snap[south-east span-100 text-03]
