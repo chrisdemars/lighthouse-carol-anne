@@ -1,4 +1,4 @@
-## iR Sessions!
+## Thanks iR Sessions!
 
 ---
 
