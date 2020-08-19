@@ -1,10 +1,4 @@
-## Thanks to GDG Fremont!
-
-@snap[south-east span-100 text-03]
-#GDGFremontDevFest2020 ◆ #DeveloperCommunity
-
-@snap[south-west span-100 text-11]
-Chris DeMars ◆ @saltnburnem
+## iR Sessions!
 
 ---
 
@@ -241,16 +235,16 @@ Sample sw.js file
 
 ```javascript
 if ('serviceWorker' in navigator) {
-  window.addEventListener('load', function() {
+  window.addEventListener('load', function () {
     navigator.serviceWorker.register('/sw.js').then(
-      function(registration) {
+      function (registration) {
         // Registration was successful
         console.log(
           'ServiceWorker registration successful with scope: ',
           registration.scope
         );
       },
-      function(err) {
+      function (err) {
         // registration failed :(
         console.log('ServiceWorker registration failed: ', err);
       }
