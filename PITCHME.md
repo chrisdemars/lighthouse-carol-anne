@@ -2,38 +2,10 @@
 
 ---
 
-@snap[north]
-
-## Sponsors
-
-@snapend
-
-@snap[midpoint]
-<img src="assets/img/sponsors.png" />
-@snapend
-
-@snap[south-east span-100 text-03]
-#GDGFremontDevFest2020 ◆ #DeveloperCommunity
-
-@snap[south-west span-100 text-11]
-Chris DeMars ◆ @saltnburnem
-
----
-
-### #GDGFremontDevFest2020
-
-@snap[south-east span-100 text-03]
-#GDGFremontDevFest2020 ◆ #DeveloperCommunity
-
-@snap[south-west span-100 text-11]
-Chris DeMars ◆ @saltnburnem
-
----
-
 ### I ❤️ the #DeveloperCommunity
 
 @snap[south-east span-100 text-03]
-#GDGFremontDevFest2020 ◆ #DeveloperCommunity
+#DeveloperCommunity
 
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
@@ -43,7 +15,7 @@ Chris DeMars ◆ @saltnburnem
 <img class="rounded" src="assets/img/me.png" height="350" />
 
 @snap[north span-80]
-@emoji[wave text-14] @css[text-14](Hi, I'm Chris DeMars)
+@css[text-14](Hi, I'm Chris DeMars)
 @saltnburnem
 @snapend
 
