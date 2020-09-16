@@ -93,7 +93,7 @@ Chris DeMars ◆ @saltnburnem
 
 ---
 
-@quote[Analysis of how your experience is doing.]
+@quote[It’s a critique of website design, SEO, and user experience. The goal of the audit is to point out what’s not working on your site and needs fixing.]
 
 @snap[south-east span-100 text-03]
 #TechCon ◆ #DeveloperCommunity
@@ -103,9 +103,15 @@ Chris DeMars ◆ @saltnburnem
 @snapend
 Note:
 
-- Analysis of how your experience is doing
+- According to Rock, Paper, Copy it’s a critique of website design, SEO, and user experience. The goal of the audit is to point out what’s not working on your site and needs fixing.
 
 ---
+
+## What can we audit?
+
+---
+
+### ⬇ THE THINGS ⬇
 
 @ul
 
@@ -121,18 +127,35 @@ Note:
   @snap[south-west span-100 text-11]
   Chris DeMars ◆ @saltnburnem
 
+@snapend
+Note:
+
+- Performance as far as loading, specifically DomContentLoaded, time to first byte, first contentful paint, and optimizing the critical rendering path.
+- Search engine optimzation, using the proper heading level elements, keywords, and description.
+- Best practices, are you using the proper doctype, are there any console errors?
+- For PWA's do you have a service worker and manifest file?
+- My favorite topic, accessibility, how is the color contrast? Do you have alternative text for images? Are you using ARIA correctly?
+
 ---
 
-@snap[perf-ss]
-<img src="assets/img/perf-ss.png" alt="Screenshot from web page test"/>
-@snapend
+## Performance
+
+<img src="assets/img/perf-ss.png" alt="Screenshot from web page test" height="300"/>
 
 @snap[south-east span-100 text-03]
 #TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
+@snapend
+Note:
+
+- This a screenshot of the performance tab in Chrome's DevTools. Based on the results you get from an audit you can really dig down into this chart and see load times, bottlenecks, etc.
+- You can also pair this performance tab up with running your audit and compare and contrast the issues.
+
 ---
+
+#### Performance Resource to Pair with Lighthouse
 
 [Webpage Test](https://www.webpagetest.org/)
 
@@ -142,6 +165,8 @@ Chris DeMars ◆ @saltnburnem
 Chris DeMars ◆ @saltnburnem
 
 ---
+
+## SEO
 
 Keywords, Structure, Description, Google Analytics, etc.
 
@@ -156,7 +181,7 @@ Chris DeMars ◆ @saltnburnem
 
 ## Best Practices
 
-#### Proper doctype, no console errors, etc.
+Proper doctype, no console errors, etc.
 
 @snap[south-east span-100 text-03]
 #TechCon ◆ #DeveloperCommunity
@@ -172,7 +197,7 @@ Chris DeMars ◆ @saltnburnem
 
 ```html
 <div class="...">
-  <a href="..." rel="noopener"></a>
+  <a href="..." target="_blank" rel="noopener noreferrer nofollow"></a>
 </div>
 ```
 
@@ -182,6 +207,14 @@ Chris DeMars ◆ @saltnburnem
 #TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
+
+@snapend
+Note:
+
+- All three of these attribute values have to do with the act of opening a link or tab in a web experience.
+- The noopenere and noreferrer work against mailicious attacks caused by using the \_blank attribute value of the target attribute. This value gives access to the window.object and therefore partially links to the tab you just came from.
+- When adding noopener and noreferrer it doesn't set the window.property and returns a null value.
+- According to Point Jupiter, the rule general rule to use nofollow is on links and in forums.
 
 ---
 
