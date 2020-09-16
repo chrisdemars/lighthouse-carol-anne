@@ -439,6 +439,53 @@ Chris DeMars ◆ @saltnburnem
 
 # Problems
 
+<img src="assets/img/lh-results.png" />
+
+@snap[south-east span-100 text-03]
+#TechCon ◆ #DeveloperCommunity
+@snap[south-west span-100 text-11]
+Chris DeMars ◆ @saltnburnem
+
+---
+
+<img src="assets/img/perf-results.png" height="600"/>
+
+@snap[south-east span-100 text-03]
+#TechCon ◆ #DeveloperCommunity
+@snap[south-west span-100 text-11]
+Chris DeMars ◆ @saltnburnem
+
+---
+
+<img src="assets/img/a11y-results.png" height="550"/>
+
+@snap[south-east span-100 text-03]
+#TechCon ◆ #DeveloperCommunity
+@snap[south-west span-100 text-11]
+Chris DeMars ◆ @saltnburnem
+
+---
+
+<img src="assets/img/best-results.png" height="500"/>
+
+@snap[south-east span-100 text-03]
+#TechCon ◆ #DeveloperCommunity
+@snap[south-west span-100 text-11]
+Chris DeMars ◆ @saltnburnem
+
+---
+
+<img src="assets/img/seo-results.png" height="500"/>
+
+@snap[south-east span-100 text-03]
+#TechCon ◆ #DeveloperCommunity
+@snap[south-west span-100 text-11]
+Chris DeMars ◆ @saltnburnem
+
+---
+
+<img src="assets/img/pwa-results.png" height="550"/>
+
 @snap[south-east span-100 text-03]
 #TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
@@ -452,6 +499,131 @@ Chris DeMars ◆ @saltnburnem
 #TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
+
+---
+
+## Performance Solutions
+
+<img src="assets/img/perf-solutions-1.png"/>
+
+@snap[south-east span-100 text-03]
+#TechCon ◆ #DeveloperCommunity
+@snap[south-west span-100 text-11]
+Chris DeMars ◆ @saltnburnem
+
+---
+
+## Performance Solutions
+
+<img src="assets/img/perf-solutions-2.png"/>
+
+@snap[south-east span-100 text-03]
+#TechCon ◆ #DeveloperCommunity
+@snap[south-west span-100 text-11]
+Chris DeMars ◆ @saltnburnem
+
+---
+
+## Performance Solutions
+
+<img src="assets/img/perf-solutions-3.png"/>
+
+@snap[south-east span-100 text-03]
+#TechCon ◆ #DeveloperCommunity
+@snap[south-west span-100 text-11]
+Chris DeMars ◆ @saltnburnem
+
+---
+
+## Accessibility Solutions
+
+@ul
+
+- Use ARIA roles responsibly
+- Fix the color contrast
+- Ensure that forms have associated labels
+
+  @ulend
+
+  @snap[south-east span-100 text-03]
+  #TechCon ◆ #DeveloperCommunity
+  @snap[south-west span-100 text-11]
+  Chris DeMars ◆ @saltnburnem
+
+---
+
+## Best Practice Solutions
+
+@ul
+
+- Make sure links are safe (`noopener noreferer`)
+- Stay away from JS libraries or frameworks with security vulnerabilities (jQuery 3.2.1)
+
+  @ulend
+
+  @snap[south-east span-100 text-03]
+  #TechCon ◆ #DeveloperCommunity
+  @snap[south-west span-100 text-11]
+  Chris DeMars ◆ @saltnburnem
+
+---
+
+## SEO Solutions
+
+We are good!
+
+  @ulend
+
+  @snap[south-east span-100 text-03]
+  #TechCon ◆ #DeveloperCommunity
+  @snap[south-west span-100 text-11]
+  Chris DeMars ◆ @saltnburnem
+
+---
+
+## BUT...if we HAD issues!
+
+@ul
+
+- Make sure there is a `<meta name="viewport">` tag
+- Links should have discernible text
+- The heading level hierachy should make sense
+
+  @ulend
+
+  @snap[south-east span-100 text-03]
+  #TechCon ◆ #DeveloperCommunity
+  @snap[south-west span-100 text-11]
+  Chris DeMars ◆ @saltnburnem
+
+---
+
+## As far as a PWA goes?
+
+@css[fragment](That is up to you and your company goals and initiatives.)
+
+  @snap[south-east span-100 text-03]
+  #TechCon ◆ #DeveloperCommunity
+  @snap[south-west span-100 text-11]
+  Chris DeMars ◆ @saltnburnem
+
+---
+
+## What did we learn?
+
+@ul
+
+- What a web audit is?
+- How to run an audit in Lighthouse
+- Identifying problems
+- Creating solutions
+
+  @ulend
+
+  @snap[south-east span-100 text-03]
+  #TechCon ◆ #DeveloperCommunity
+  @snap[south-west span-100 text-11]
+  Chris DeMars ◆ @saltnburnem
 
 ---
 
