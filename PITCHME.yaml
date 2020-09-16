@@ -6,4 +6,5 @@ theme-override : assets/css/styles.css
 published: true
 highlight : agate
 published: true
+speaker-mode: true
 footnote : "<p>http://bit.ly/lighthouse-carol-anne</p>"

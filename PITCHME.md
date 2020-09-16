@@ -20,27 +20,17 @@ Chris DeMars ◆ @saltnburnem
 
 ---
 
-<img class="rounded" src="assets/img/me.png" height="350" />
-
 @snap[north span-80]
 @css[text-14](Hi, I'm Chris DeMars)
 @saltnburnem
-@snapend
-
-@snap[north-west fit]
-<img src="assets/img/mde-logo-3.jpg" />
-@snapend
-
-@snap[south-west fit]
-<img src="assets/img/mvp.png" />
-@snapend
-
-@snap[south-east fit]
-<img src="assets/img/gde.png" />
+<img class="rounded" src="assets/img/me.png" height="250" />
 @snapend
 
 @snap[south]
 <img src="assets/img/work.png" />
+<img src="assets/img/mde-logo-3.jpg" height="70"/>
+<img src="assets/img/gde.png" height="70"/>
+<img src="assets/img/mvp.png" height="70"/>
 @snapend
 
 ---
@@ -109,6 +99,11 @@ Chris DeMars ◆ @saltnburnem
 #TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
+
+@snapend
+Note:
+
+- Analysis of how your experience is doing
 
 ---
 
