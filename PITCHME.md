@@ -1,11 +1,19 @@
-## Thanks iR Sessions!
+## Thanks
+
+<img src="assets/img/rm-logo.jpg" height="200"/>
+
+@snap[south-east span-100 text-03]
+#TechCon ◆ #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars ◆ @saltnburnem
 
 ---
 
 ### I ❤️ the #DeveloperCommunity
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
+#TechCon ◆ #DeveloperCommunity
 
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
@@ -36,8 +44,7 @@ Chris DeMars ◆ @saltnburnem
 ### @css[emoji](😢)
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -55,18 +62,16 @@ Chris DeMars ◆ @saltnburnem
   @ulend
 
   @snap[south-east span-100 text-03]
-  #DeveloperCommunity
-
-@snap[south-west span-100 text-11]
-Chris DeMars ◆ @saltnburnem
+  #TechCon ◆ #DeveloperCommunity
+  @snap[south-west span-100 text-11]
+  Chris DeMars ◆ @saltnburnem
 
 ---
 
 [Tales From the Script](https://open.spotify.com/show/6CMLm47Kj0VyeM6lnaSmnw?si=fS6s9ra1TMmREKJ7RyhGpQ)
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -79,8 +84,7 @@ Chris DeMars ◆ @saltnburnem
 ![Logo](assets/img/poltergeist.jpg)
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -89,8 +93,7 @@ Chris DeMars ◆ @saltnburnem
 ## What is an audit?
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -99,8 +102,7 @@ Chris DeMars ◆ @saltnburnem
 @quote[Analysis of how your experience is doing.]
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -116,10 +118,9 @@ Chris DeMars ◆ @saltnburnem
   @ulend
 
   @snap[south-east span-100 text-03]
-  #DeveloperCommunity
-
-@snap[south-west span-100 text-11]
-Chris DeMars ◆ @saltnburnem
+  #TechCon ◆ #DeveloperCommunity
+  @snap[south-west span-100 text-11]
+  Chris DeMars ◆ @saltnburnem
 
 ---
 
@@ -128,8 +129,7 @@ Chris DeMars ◆ @saltnburnem
 @snapend
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -138,8 +138,7 @@ Chris DeMars ◆ @saltnburnem
 [Webpage Test](https://www.webpagetest.org/)
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -150,8 +149,7 @@ Keywords, Structure, Description, Google Analytics, etc.
 [A Simple (But Effective) 31-Point SEO Checklist](https://ahrefs.com/blog/seo-checklist/)
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -162,8 +160,7 @@ Chris DeMars ◆ @saltnburnem
 #### Proper doctype, no console errors, etc.
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -183,8 +180,7 @@ Chris DeMars ◆ @saltnburnem
 @snapend
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -193,8 +189,7 @@ Chris DeMars ◆ @saltnburnem
 ## Progressive Web Apps
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -228,8 +223,7 @@ if ('serviceWorker' in navigator) {
 @snapend
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -272,8 +266,7 @@ Sample manifest.json file
 @snapend
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -291,8 +284,7 @@ Tell the browser about your manifest.json file
 @snapend
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -301,8 +293,7 @@ Chris DeMars ◆ @saltnburnem
 ## @css[title](Accessibility)
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -351,8 +342,7 @@ Semantic markup and ARIA
 @[26-28, zoom-15]
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -361,8 +351,7 @@ Chris DeMars ◆ @saltnburnem
 ## How do we audit?
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -373,8 +362,7 @@ Chris DeMars ◆ @saltnburnem
 @snapend
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -384,6 +372,12 @@ Chris DeMars ◆ @saltnburnem
 
 ## Audit in incognito!
 
+@snap[south-east span-100 text-03]
+#TechCon ◆ #DeveloperCommunity
+
+@snap[south-west span-100 text-11]
+Chris DeMars ◆ @saltnburnem
+
 ---
 
 ## OFF WE GO TO CHROME!
@@ -391,8 +385,7 @@ Chris DeMars ◆ @saltnburnem
 <img src="https://media.giphy.com/media/GlO8owuLggHhm/giphy.gif" width="480" height="208"/>
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -401,8 +394,7 @@ Chris DeMars ◆ @saltnburnem
 # Problems
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -411,8 +403,7 @@ Chris DeMars ◆ @saltnburnem
 # Solutions
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -423,8 +414,7 @@ Chris DeMars ◆ @saltnburnem
 [Get them here!](https://gist.github.com/chrisdemars/34305835a172f4e5aac3ed35b6b908af)
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
@@ -435,7 +425,6 @@ Chris DeMars ◆ @saltnburnem
 @saltnburnem | http://bit.ly/lighthouse-carol-anne
 
 @snap[south-east span-100 text-03]
-#DeveloperCommunity
-
+#TechCon ◆ #DeveloperCommunity
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
