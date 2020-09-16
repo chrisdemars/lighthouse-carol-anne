@@ -27,6 +27,10 @@ Chris DeMars ◆ @saltnburnem
 @saltnburnem
 @snapend
 
+@snap[north-west fit]
+<img src="assets/img/mde-logo-3.jpg" />
+@snapend
+
 @snap[south-west fit]
 <img src="assets/img/mvp.png" />
 @snapend
