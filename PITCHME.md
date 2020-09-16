@@ -93,7 +93,7 @@ Chris DeMars ◆ @saltnburnem
 
 ---
 
-@quote[It’s a critique of website design, SEO, and user experience. The goal of the audit is to point out what’s not working on your site and needs fixing.]
+@quote[A web audit is an evaluation of the current state of a web page's adherence to specific standards of quality, be it performance, accessibility, security, or other aspects of a website's functioning.]
 
 @snap[south-east span-100 text-03]
 #TechCon ◆ #DeveloperCommunity
@@ -103,7 +103,7 @@ Chris DeMars ◆ @saltnburnem
 @snapend
 Note:
 
-- According to Rock, Paper, Copy it’s a critique of website design, SEO, and user experience. The goal of the audit is to point out what’s not working on your site and needs fixing.
+- According to Jeremy Wagner, Performance Engineer and Author, it’s an evaluation of the current state of a web page's adherence to specific standards of quality, be it performance, accessibility, security, or other aspects of a website's functioning.
 
 ---
 
@@ -193,7 +193,7 @@ Chris DeMars ◆ @saltnburnem
 ## @css[title](Security & HTTPS)
 
 @snap[south-middle span-100 fragment]
-@[2, zoom-18]
+@[2]
 
 ```html
 <div class="...">
@@ -259,6 +259,13 @@ if ('serviceWorker' in navigator) {
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
+@snapend
+Note:
+
+- According my friend Matt Gaunt over at Google, a service worker is: A script that your browser runs in the background, separate from a web page, opening the door to features that don't need a web page or user interaction.
+- Two things you need to have a great progressive web app experience is a service worker javascript file and a manifest.json file.
+- To install a service worker you need to register it in your page. This tells the browser where your service worker JS file lives. The code checks to see if it is available and if it is, it is registered once the page loads.
+
 ---
 
 @snap[north-east span-100 text-06]
@@ -302,6 +309,13 @@ Sample manifest.json file
 @snap[south-west span-100 text-11]
 Chris DeMars ◆ @saltnburnem
 
+@snapend
+Note:
+
+- A manifest.json file can be used to set add the site to the homescreen of your device with icons tailored to the device.
+- Set the splash screen
+- You can even specify the color scheme and whether or not you want to display browser chrome
+
 ---
 
 @snap[north-east span-100 text-06]
@@ -335,7 +349,7 @@ Chris DeMars ◆ @saltnburnem
 Semantic markup and ARIA
 @snapend[west]
 
-```html zoom-06
+```html zoom-08
 <header>
   <!--- Some code goes here --->
 </header>
@@ -344,20 +358,20 @@ Semantic markup and ARIA
 </section>
 <div class="...">
   <ul>
-    <li aria-label="some label">
-      <a href="#" aria-label="Facebook"
-        ><i class="fab fa-3x fa-facebook-f"></i
-      ></a>
+    <li>
+      <a href="#" aria-label="Facebook">
+        <i class="fab fa-3x fa-facebook-f"></i>
+      </a>
     </li>
-    <li aria-label="some label">
-      <a href="#" aria-label="Instagram"
-        ><i class="fab fa-3x fa-instagram-f"></i
-      ></a>
+    <li>
+      <a href="#" aria-label="Instagram">
+        <i class="fab fa-3x fa-instagram-f"></i>
+      </a>
     </li>
-    <li aria-label="some label">
-      <a href="#" aria-label="Twitter"
-        ><i class="fab fa-3x fa-twitter-f"></i
-      ></a>
+    <li>
+      <a href="#" aria-label="Twitter">
+        <i class="fab fa-3x fa-twitter-f"></i>
+      </a>
     </li>
   </ul>
 </div>
