@@ -62,7 +62,7 @@ Chris DeMars ◆ @saltnburnem
 
 ---
 
-[Tales From the Script](https://open.spotify.com/show/6CMLm47Kj0VyeM6lnaSmnw?si=fS6s9ra1TMmREKJ7RyhGpQ)
+[Tales From the Script](http://www.talesftscript.com/)
 
 @snap[south-east span-100 text-03]
 #TechCon ◆ #DeveloperCommunity
